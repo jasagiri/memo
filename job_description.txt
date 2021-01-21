@@ -124,7 +124,7 @@ Elasticsearch + Kibana + fluentd
 　ハンズオンNode.js
 　プログラミングTypeScript O'Reilly
 　現場で使えるSQL
-　確率と統計　ヨビノリたくみ
+　難しい数式はまったくわかりませんが、確率統計を教えてください！　ヨビノリたくみ
 　問題解決力を鍛える!アルゴリズムとデータ構造
 中級
 　TypeScript3.4 型の強化書　takepepe

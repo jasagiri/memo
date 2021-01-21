@@ -122,7 +122,7 @@ Elasticsearch + Kibana + fluentd
 　NEXT GENERATION GOVERNMENT
 　ハンズオンJavaScript
 　ハンズオンNode.js
-　TypeScript
+　プログラミングTypeScript O'Reilly
 　現場で使えるSQL
 　確率と統計　ヨビノリたくみ
 　問題解決力を鍛える!アルゴリズムとデータ構造

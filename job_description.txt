@@ -80,6 +80,7 @@ C
 C++
 SQL
 GraphQL
+R
 等
 
 フレームワーク等

@@ -152,6 +152,10 @@ Elasticsearch + Kibana + fluentd
 
 余裕があれば(目標:いずれ必要)
 　貨幣とマクロ経済ダイナミックス(http://www.muratopia.org/Yamaguchi/MacroBook-j.html)
+　成長の限界
+　限界を超えて
+　成長の限界～人間の選択
+　2052
 
 その他
 研修終了後は、会社に席を置くと共に、個人事業主としての契約となります。

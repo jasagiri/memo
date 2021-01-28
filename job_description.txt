@@ -160,6 +160,11 @@ Elasticsearch + Kibana + fluentd
 　成長の限界～人間の選択
 　2052
 　記憶のゆくたて―デジタル・アーカイヴの文化経済
+
+試用期間終了後
+　IOTA（https://github.com/iotaledger）
+　IOTA Training (https://training.iota.org/)
+
 その他
 研修終了後は、会社に席を置くと共に、個人事業主としての契約となります。
 (給与は月額45800円固定となり、企業型確定拠出年金に加入できます。個人事業主の収入に関しては、準委任契約等での外注費として処理します)

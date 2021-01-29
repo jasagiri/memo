@@ -126,6 +126,7 @@ Elasticsearch + Kibana + fluentd
 　ハンズオンJavaScript
 　ハンズオンNode.js
 　プログラミングTypeScript O'Reilly
+　ソフトウェアファースト
 　現場で使えるSQL
 　難しい数式はまったくわかりませんが、確率統計を教えてください！　ヨビノリたくみ
 　問題解決力を鍛える!アルゴリズムとデータ構造

@@ -131,6 +131,7 @@ Elasticsearch + Kibana + fluentd
 　問題解決力を鍛える!アルゴリズムとデータ構造
 　風の谷のナウシカ（原作）
 　さよならインターネット
+　地球が１００人の村だったら
 中級
 　TypeScript3.4 型の強化書　takepepe
 　公共貨幣　山口薫
@@ -142,6 +143,8 @@ Elasticsearch + Kibana + fluentd
 　【増補改訂】 財務3表一体理解法
 　イシューからはじめよ
 　グーテンベルクの銀河系―活字人間の形成
+　入門！システム思考
+　システム×デザイン思考で世界を変える
 上級
 　エンジニアが学ぶ会計システムの知識と技術
 　エンジニアが学ぶ金融システムの知識と技術
@@ -152,7 +155,7 @@ Elasticsearch + Kibana + fluentd
 　会計システムダイナミックスでひもとく財務４表統合システムの構造(http://www.muratopia.net/research/papers/%E8%B2%A1%E5%8B%99%EF%BC%94%E8%A1%A8%E7%B5%B1%E5%90%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.pdf)ん
 　シン・ニホン
 　プライバシー・パラドックス データ監視社会と「わたし」の再発明
-
+　人を助けるとはどういうことか
 余裕があれば(目標:いずれ必要)
 　貨幣とマクロ経済ダイナミックス(http://www.muratopia.org/Yamaguchi/MacroBook-j.html)
 　成長の限界

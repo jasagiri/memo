@@ -140,7 +140,7 @@ Elasticsearch + Kibana + fluentd
 　TypeScript3.4 型の強化書　takepepe
 　公共貨幣　山口薫
 　デカルトからベイトソンへ
-　科学と神
+　人を助けるとはどういうことか
 　TORONWARE NO.185 スマートシティ
 　コンサイス版Mastering Bitcoin
 　税制を変えれば政治も変わる　一般取引税を導入して夢のジパングへ(http://www.aya.or.jp/~babalabo/DownLoad/TransactionTax.pdf)
@@ -160,7 +160,7 @@ Elasticsearch + Kibana + fluentd
 　会計システムダイナミックスでひもとく財務４表統合システムの構造(http://www.muratopia.net/research/papers/%E8%B2%A1%E5%8B%99%EF%BC%94%E8%A1%A8%E7%B5%B1%E5%90%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.pdf)ん
 　シン・ニホン
 　プライバシー・パラドックス データ監視社会と「わたし」の再発明
-　人を助けるとはどういうことか
+　科学と神
 余裕があれば(目標:いずれ必要)
 　貨幣とマクロ経済ダイナミックス(http://www.muratopia.org/Yamaguchi/MacroBook-j.html)
 　成長の限界

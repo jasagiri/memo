@@ -86,7 +86,6 @@ R
 
 フレームワーク等
 Vue.js
-frourio
 Node.js
 Deno
 Prisma.io
@@ -101,6 +100,7 @@ ZeroMQ
 HTTP
 MessagePack
 各種クラウド
+PostGIS
 μT-kernel(TRON)
 
 プレゼンテーション技能

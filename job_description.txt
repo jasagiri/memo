@@ -123,6 +123,7 @@ Elasticsearch + Kibana + fluentd
 試用期間中の課題図書
 初期
 　バビロン大富豪の教え
+　教養としての投資入門
 　世界一楽しい決算書の読み方
 　エンデの遺言
 　NEXT GENERATION GOVERNMENT

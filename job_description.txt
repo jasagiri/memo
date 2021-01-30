@@ -101,7 +101,7 @@ ZeroMQ
 HTTP
 MessagePack
 各種クラウド
-μT-kernel(TORON)
+μT-kernel(TRON)
 
 プレゼンテーション技能
 
@@ -141,12 +141,12 @@ Elasticsearch + Kibana + fluentd
 　風の谷のナウシカ（原作）
 　さよならインターネット
 　地球が１００人の村だったら
+　TRONWARE NO.185 スマートシティ
 中級
 　TypeScript3.4 型の強化書　takepepe
 　公共貨幣　山口薫
 　デカルトからベイトソンへ
 　人を助けるとはどういうことか
-　TORONWARE NO.185 スマートシティ
 　コンサイス版Mastering Bitcoin
 　税制を変えれば政治も変わる　一般取引税を導入して夢のジパングへ(http://www.aya.or.jp/~babalabo/DownLoad/TransactionTax.pdf)
 　【増補改訂】 財務3表一体理解法

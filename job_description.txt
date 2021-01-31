@@ -176,6 +176,7 @@ Elasticsearch + Kibana + fluentd
 　成長の限界～人間の選択
 　2052
 　記憶のゆくたて―デジタル・アーカイヴの文化経済
+　相互扶助の経済
 
 試用期間終了後
 　IOTA（https://github.com/iotaledger）

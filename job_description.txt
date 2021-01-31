@@ -158,10 +158,10 @@ Elasticsearch + Kibana + fluentd
 　入門！システム思考
 　なぜあの人の解決策はいつもうまくいくのか？
 　システム×デザイン思考で世界を変える
-上級
 　エンジニアが学ぶ会計システムの知識と技術
 　エンジニアが学ぶ金融システムの知識と技術
 　エンジニアが学ぶ物流システムの知識と技術
+上級
 　圏論の歩き方
 　Mastering Bitcoin
 　持続可能（サステーナブル）な社会を考えるガイダンス(http://www.muratopia.net/sd/documents/SustainableSociety.pdf)

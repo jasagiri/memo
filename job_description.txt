@@ -152,6 +152,8 @@ Elasticsearch + Kibana + fluentd
 　税制を変えれば政治も変わる　一般取引税を導入して夢のジパングへ(http://www.aya.or.jp/~babalabo/DownLoad/TransactionTax.pdf)
 　【増補改訂】 財務3表一体理解法
 　イシューからはじめよ
+　統計学が最強の学問である
+　統計学が最強の学問である実践編
 　グーテンベルクの銀河系―活字人間の形成
 　入門！システム思考
 　なぜあの人の解決策はいつもうまくいくのか？

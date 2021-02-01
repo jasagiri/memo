@@ -178,6 +178,8 @@ Elasticsearch + Kibana + fluentd
  記憶のゆくたて―デジタル・アーカイヴの文化経済
  相互扶助の経済
  社会の未来 ルドルフ・シュタイナー
+ 愛するということ エーリッヒ・フロム
+ 生きるということ エーリッヒ・フロム
 
 試用期間終了後
  IOTA（https://github.com/iotaledger）

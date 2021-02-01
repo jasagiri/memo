@@ -191,9 +191,16 @@ Elasticsearch + Kibana + fluentd
  IOTA（https://github.com/iotaledger）
  IOTA Training (https://training.iota.org/)
 
+ 情報学広場
+ ( https://www.ipsj.or.jp/dp/contents/publication/39/S1003-index.html
+ https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_snippet&page_id=13&block_id=8&index_id=9807&pn=1&count=20&order=7&lang=japanese )
+
  物流システム
  決済・会計システム
  財務システム
+
+ 広告配信システム
+ 収益分配システム
 
  Code Browser
  Code Editor

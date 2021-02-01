@@ -182,6 +182,8 @@ Elasticsearch + Kibana + fluentd
  生きるということ エーリッヒ・フロム
 
 試用期間終了後
+ イエナプラン　共に生きることを学ぶ学校
+ マンガでやさしくわかるシュタイナー教育
  IOTA（https://github.com/iotaledger）
  IOTA Training (https://training.iota.org/)
 

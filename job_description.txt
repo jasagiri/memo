@@ -152,6 +152,7 @@ Elasticsearch + Kibana + fluentd
  公共貨幣 山口薫
  デカルトからベイトソンへ
  人を助けるとはどういうことか
+ 貨幣発行自由化論　改訂版　フリードリヒ・ハイエク
  コンサイス版Mastering Bitcoin
  税制を変えれば政治も変わる 一般取引税を導入して夢のジパングへ(http://www.aya.or.jp/~babalabo/DownLoad/TransactionTax.pdf)
  【増補改訂】 財務3表一体理解法

@@ -74,6 +74,7 @@ CSS
 JavaScript
 TypeScript
 Rust
+WebAssembly
 Python
 Ruby
 Nim
@@ -102,6 +103,8 @@ MessagePack
 各種クラウド
 PostGIS
 μT-kernel(TRON)
+IOTA
+Polkadot
 
 プレゼンテーション技能
 

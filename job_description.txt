@@ -136,6 +136,7 @@ Elasticsearch + Kibana + fluentd
  NEXT GENERATION GOVERNMENT
  ハンズオンJavaScript
  ハンズオンNode.js
+ 仕事ですぐに使えるTypeScript(https://future-architect.github.io/articles/20190612/)
  プログラミングTypeScript O'Reilly
  ソフトウェアファースト
  現場で使えるSQL

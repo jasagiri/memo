@@ -90,6 +90,7 @@ Vue.js
 Node.js
 Deno
 Prisma.io
+Materialize CSS
 VSCode
 Git
 GitHub

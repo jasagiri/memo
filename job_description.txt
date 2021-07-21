@@ -133,6 +133,7 @@ Elasticsearch + Kibana + fluentd
  ズバリ回答！どんな領収書でも経費で落とす方法
  数学文章作法 基礎編
  数学文章作法 推敲編
+ 予備校のノリで学ぶ大学数学
  エンデの遺言
  NEXT GENERATION GOVERNMENT
  ハンズオンJavaScript
@@ -165,6 +166,7 @@ Elasticsearch + Kibana + fluentd
  税制を変えれば政治も変わる 一般取引税を導入して夢のジパングへ(http://www.aya.or.jp/~babalabo/DownLoad/TransactionTax.pdf)
  【増補改訂】 財務3表一体理解法
  イシューからはじめよ
+ 入門　現代の量子力学　量子情報・量子測定を中心として
  統計学が最強の学問である
  統計学が最強の学問である実践編
  グーテンベルクの銀河系―活字人間の形成

@@ -167,7 +167,9 @@ Elasticsearch + Kibana + fluentd
  貨幣発行自由化論　改訂版　フリードリヒ・ハイエク
  コンサイス版Mastering Bitcoin
  税制を変えれば政治も変わる 一般取引税を導入して夢のジパングへ(http://www.aya.or.jp/~babalabo/DownLoad/TransactionTax.pdf)
- 【増補改訂】 財務3表一体理解法
+ 【新版】 財務3表一体理解法
+ 【新版】 財務3表一体理解法[発展編]
+ 【新版】 財務3表図解分析法
  イシューからはじめよ
  入門　現代の量子力学　量子情報・量子測定を中心として
  統計学が最強の学問である

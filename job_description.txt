@@ -92,6 +92,8 @@ Node.js
 Deno
 Prisma.io
 Materialize CSS
+Semantic UI
+StoryBook
 VSCode
 Git
 GitHub
